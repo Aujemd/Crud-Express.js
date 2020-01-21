@@ -1,0 +1,12 @@
+npm init --yes
+npm i express mongoose ejs morgan
+
+ejs motor de 
+
+npm i nodemon -D
+
+Comprobar datos de llegadas en las plantillas de ejs
+
+<pre>
+    <%= tasks %>
+</pre>
